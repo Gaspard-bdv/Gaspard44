@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gaspard44
+- 👋 Hi, I’m @Gaspard-bdv
 - 👀 I’m interested in IA
 - 🌱 I’m currently learning at Polytech 
 - 📫 How to reach me ...
